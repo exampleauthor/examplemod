@@ -1,2 +1,2 @@
 # examplemod
-An easter egg
+Hooray! You found an easter egg! Congratulations!
