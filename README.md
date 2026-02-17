@@ -1,0 +1,2 @@
+# examplemod
+An easter egg
